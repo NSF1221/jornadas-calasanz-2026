@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Jornadas Deportivas José de Calasanz 2026">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A0522D" />
+      <stop offset="100%" stop-color="#E35336" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <rect x="44" y="44" width="424" height="424" rx="84" fill="none" stroke="#F5F5DC" stroke-opacity="0.28" stroke-width="8" />
+  <line x1="256" y1="68" x2="256" y2="444" stroke="#F5F5DC" stroke-opacity="0.18" stroke-width="6" />
+  <circle cx="256" cy="256" r="118" fill="none" stroke="#F4A460" stroke-opacity="0.45" stroke-width="8" />
+  <text x="256" y="252" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="146" fill="#F5F5DC" letter-spacing="-4">JC</text>
+  <text x="256" y="346" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="68" fill="#F4A460" letter-spacing="8">2026</text>
+</svg>
